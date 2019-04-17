@@ -4,3 +4,6 @@ child2
 child3
 child4
 child5
+child 6
+child7
+child8
